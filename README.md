@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Summary
-## -------
+# Summary
 
 Manager/Director of Software Quality Assurance. Software QA Generalist with 20+ years of experience building,
 developing, scaling, and maintaining QA organizations across SaaS, B2B, B2C, and startup environments. Proven
